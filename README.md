@@ -45,49 +45,48 @@ Atuamos com clientes de **advocacia, gastronomia, beauty, automotivo e saúde**,
 
 <br/>
 
-## `>` Áreas de atuação
+## `>` Cases em produção
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>⚖️ Advocacia</h3>
-      <a href="https://github.com/NPATecnologia/samara-galli-site">samara-galli-site</a><br/>
-      <a href="https://github.com/NPATecnologia/leal-loron-site">leal-loron-site</a><br/>
-      <a href="https://github.com/NPATecnologia/gabriela-pan-site">gabriela-pan-site</a>
-    </td>
-    <td valign="top" width="33%">
-      <h3>🍽 Gastronomia</h3>
-      <a href="https://github.com/NPATecnologia/tiquatirao-site">tiquatirao-site</a><br/>
-      <a href="https://github.com/NPATecnologia/panelao-do-norte-site">panelao-do-norte-site</a><br/>
-      <a href="https://github.com/NPATecnologia/ocostellone-site">ocostellone-site</a><br/>
-      <a href="https://github.com/NPATecnologia/emporio-esquina-site">emporio-esquina-site</a>
-    </td>
-    <td valign="top" width="33%">
-      <h3>💅 Beauty & Estética</h3>
-      <a href="https://github.com/NPATecnologia/kelly-beauty-site">kelly-beauty-site</a><br/>
-      <a href="https://github.com/NPATecnologia/nicole-pagliari-site">nicole-pagliari-site</a><br/>
-      <a href="https://github.com/NPATecnologia/my-lash-site">my-lash-site</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>🚗 Automotivo</h3>
-      <a href="https://github.com/NPATecnologia/graxinha-site">graxinha-site</a><br/>
-      <a href="https://github.com/NPATecnologia/red-garage-site">red-garage-site</a><br/>
-      <a href="https://github.com/NPATecnologia/lowrider-site">lowrider-site</a>
-    </td>
-    <td valign="top" width="33%">
-      <h3>🥗 Saúde</h3>
-      <a href="https://github.com/NPATecnologia/nutri-solange-site">nutri-solange-site</a>
-    </td>
-    <td valign="top" width="33%">
-      <h3>🛠 Ferramentas internas</h3>
-      <a href="https://github.com/NPATecnologia/npa-gestao">npa-gestao</a><br/>
-      <a href="https://github.com/NPATecnologia/npa-bots">npa-bots</a><br/>
-      <a href="https://github.com/NPATecnologia/marq-tool">marq-tool</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### Advocacia
+
+<a href="https://samara-galli-advocacia.vercel.app"><img src="https://img.shields.io/badge/Samara_Galli-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://leal-loron.vercel.app"><img src="https://img.shields.io/badge/Leal_%26_Loron-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://advogado-gabriela-pan.vercel.app"><img src="https://img.shields.io/badge/Dra._Gabriela_Pan-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/>
+
+### Gastronomia
+
+<a href="https://tiquatirao-restaurante.vercel.app"><img src="https://img.shields.io/badge/Tiquatir%C3%A3o_Mar_%26_Brasa-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://panelao-do-norte.vercel.app"><img src="https://img.shields.io/badge/Panel%C3%A3o_do_Norte-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://ocostellone.vercel.app"><img src="https://img.shields.io/badge/Churrascaria_O_Costellone-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://emporio-esquina-da-fruta.vercel.app"><img src="https://img.shields.io/badge/Emp%C3%B3rio_Esquina_da_Fruta-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/>
+
+### Beauty & Estética
+
+<a href="https://www.studiokellybeauty.com.br"><img src="https://img.shields.io/badge/Studio_Kelly_Beauty-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.studionicolepagliari.com.br"><img src="https://img.shields.io/badge/Studio_Nicole_Pagliari-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://studio-my-lash.vercel.app"><img src="https://img.shields.io/badge/Studio_My_Lash-EC4899?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/>
+
+### Automotivo
+
+<a href="https://www.graxinhaenvelopamentos.com.br"><img src="https://img.shields.io/badge/Graxinha_Envelopamentos-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://red-garage-website.vercel.app"><img src="https://img.shields.io/badge/Red_Garage-DC2626?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://lowrider-landing.vercel.app"><img src="https://img.shields.io/badge/Lowrider-DC2626?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/>
+
+### Saúde & Nutrição
+
+<a href="https://nutri-solange.vercel.app"><img src="https://img.shields.io/badge/Solange_Camargo_Nutri-22C55E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
 
 <br/>
 
@@ -104,7 +103,7 @@ Atuamos com clientes de **advocacia, gastronomia, beauty, automotivo e saúde**,
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NPATecnologia&bg_color=0D1117&color=E5E7EB&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Contribuições%20(últimos%2031%20dias)" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NPATecnologia&bg_color=0D1117&color=E5E7EB&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20(%C3%BAltimos%2031%20dias)" width="98%" />
 
 </div>
 
@@ -117,30 +116,21 @@ Atuamos com clientes de **advocacia, gastronomia, beauty, automotivo e saúde**,
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NPATecnologia/NPATecnologia/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NPATecnologia/NPATecnologia/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NPATecnologia/NPATecnologia/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/NPATecnologia/NPATecnologia/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 <br/>
 
-## `>` Troféus
+## `>` Vamos construir algo juntos?
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NPATecnologia&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<a href="mailto:nathan@npatecnologia.com.br"><img src="https://img.shields.io/badge/Solicitar_or%C3%A7amento-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+<a href="https://www.npatecnologia.com.br/"><img src="https://img.shields.io/badge/Ver_portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
-
-<br/>
-
-## `>` Como navegar
-
-- 🏢 **Projetos de clientes** — filtre por [`topic:client-work`](https://github.com/NPATecnologia?tab=repositories&q=topic%3Aclient-work)
-- 🛠 **Ferramentas internas** — filtre por [`topic:npa-internal`](https://github.com/NPATecnologia?tab=repositories&q=topic%3Anpa-internal)
-- 📐 **Template oficial** — [`repo-template`](https://github.com/NPATecnologia/repo-template) — novo projeto começa daqui
-- 🍽 **Só restaurantes** — [`topic:restaurante`](https://github.com/NPATecnologia?tab=repositories&q=topic%3Arestaurante)
-- ⚖️ **Só advocacia** — [`topic:advocacia`](https://github.com/NPATecnologia?tab=repositories&q=topic%3Aadvocacia)
 
 <br/>
 
@@ -148,8 +138,6 @@ Atuamos com clientes de **advocacia, gastronomia, beauty, automotivo e saúde**,
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" alt="footer" />
 
-<sub>Construído com 💜 por <b>NPA Tecnologia</b> — São Paulo, BR</sub>
+<sub>Desenvolvido por <b>NPA Tecnologia</b> — São Paulo, BR</sub>
 
 </div>
-
-<!-- refresh: 2026-04-21T03:29:54Z -->
