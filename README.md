@@ -151,3 +151,5 @@ Atuamos com clientes de **advocacia, gastronomia, beauty, automotivo e saúde**,
 <sub>Construído com 💜 por <b>NPA Tecnologia</b> — São Paulo, BR</sub>
 
 </div>
+
+<!-- last-index: 2026-04-21T03:27:51Z -->
