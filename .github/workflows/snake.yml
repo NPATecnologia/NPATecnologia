@@ -21,8 +21,7 @@ jobs:
           github_user_name: NPATecnologia
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#1f262d,#4a5050,#7c3aed,#06b6d4,#ffffff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%237C3AED&color_dots=%230D1117,%231F2937,%234C1D95,%237C3AED,%2306B6D4
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
