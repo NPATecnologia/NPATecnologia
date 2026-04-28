@@ -1,0 +1,115 @@
+erDiagram
+    clients {
+        uuid id PK
+        varchar name
+        varchar segment
+        varchar email
+        varchar phone
+        varchar website
+        varchar vercel_project_id
+        varchar status
+        text notes
+        timestamptz created_at
+        timestamptz updated_at
+    }
+
+    projects {
+        uuid id PK
+        uuid client_id FK
+        varchar name
+        varchar type
+        varchar status
+        date start_date
+        date delivery_date
+        int estimated_days
+        varchar repo_url
+        varchar deploy_url
+        jsonb stack
+        numeric total_value
+        timestamptz created_at
+        timestamptz updated_at
+    }
+
+    proposals {
+        uuid id PK
+        uuid client_id FK
+        uuid project_id FK
+        varchar title
+        varchar status
+        jsonb services
+        numeric total
+        char currency
+        date valid_until
+        text payment_terms
+        text notes
+        timestamptz sent_at
+        timestamptz accepted_at
+        timestamptz created_at
+    }
+
+    invoices {
+        uuid id PK
+        uuid project_id FK
+        uuid client_id FK
+        numeric amount
+        varchar type
+        varchar status
+        date due_date
+        timestamptz paid_at
+        varchar payment_method
+        text notes
+        timestamptz created_at
+    }
+
+    notes {
+        uuid id PK
+        uuid user_id FK
+        varchar title
+        text content
+        text_array tags
+        boolean is_pinned
+        uuid project_id FK
+        timestamptz created_at
+        timestamptz updated_at
+    }
+
+    contacts {
+        uuid id PK
+        uuid project_id FK
+        varchar name
+        varchar email
+        varchar phone
+        text message
+        varchar source
+        varchar status
+        boolean lgpd_consent
+        timestamptz lgpd_consent_at
+        timestamptz created_at
+    }
+
+    milestones {
+        uuid id PK
+        uuid project_id FK
+        varchar name
+        text description
+        varchar status
+        date due_date
+        timestamptz completed_at
+        timestamptz created_at
+    }
+
+    auth_users {
+        uuid id PK
+        varchar email
+        timestamptz created_at
+    }
+
+    clients ||--o{ projects : "possui"
+    clients ||--o{ proposals : "recebe"
+    clients ||--o{ invoices : "paga"
+    projects ||--o{ milestones : "contém"
+    projects ||--o{ notes : "documenta"
+    projects ||--o{ contacts : "recebe"
+    projects ||--o{ invoices : "gera"
+    proposals ||--o| projects : "origina"
+    auth_users ||--o{ notes : "escreve"
